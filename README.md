@@ -25,6 +25,9 @@ I'm a **Senior Flutter Developer** with 9+ years in mobile app development (5+ i
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![BLoC](https://img.shields.io/badge/BLoC-4B4B4B?style=flat)
+![Provider](https://img.shields.io/badge/Provider-2A9D8F?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat&logo=firebase&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blueviolet?style=flat)
 
 ---
