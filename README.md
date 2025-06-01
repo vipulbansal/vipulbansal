@@ -16,6 +16,8 @@ I'm a **Senior Flutter Developer** with 9+ years in mobile app development (5+ i
 - 🔗 [**Social Connect Hub**](https://github.com/vipulbansal/social_connect_hub): A social media app with chat, friend requests, and profile syncing powered by Firebase.
 - 📝 [**Flutter Notes App**](https://github.com/vipulbansal/flutter_notes_app): A simple note-taking app with offline support and Provider state management.
 - ✅ [**Vipul Task Master**](https://github.com/vipulbansal/vipul_task_master): A task manager app built with Flutter BLoC, Hive, and local notifications.
+- 📣 [**SnackbarX**](https://github.com/vipulbansal/snackbarx): A customizable Flutter snackbar package built using Overlay and AnimationController. Ensures one snackbar at a time with full control over styling, duration, and types (success, error, info).
+
 
 ---
 
