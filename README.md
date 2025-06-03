@@ -17,6 +17,8 @@ I'm a **Senior Flutter Developer** with 9+ years in mobile app development (5+ i
 - 📝 [**Flutter Notes App**](https://github.com/vipulbansal/flutter_notes_app): A simple note-taking app with offline support and Provider state management.
 - ✅ [**Vipul Task Master**](https://github.com/vipulbansal/vipul_task_master): A task manager app built with Flutter BLoC, Hive, and local notifications.
 - 📣 [**SnackbarX**](https://github.com/vipulbansal/snackbarx): A customizable Flutter snackbar package built using Overlay and AnimationController. Ensures one snackbar at a time with full control over styling, duration, and types (success, error, info).
+- 📷 [**safe_network_image**](https://github.com/vipulbansal/safe_network_image): A lightweight Flutter package that reliably loads network images with automatic retry, fallback placeholder, and connectivity awareness. Built for web, Android, and iOS. 🔧 Supports image loading errors, Flutter web retry, and customizable fallback widgets.
+
 
 
 ---
