@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vipul Bansal
 
-I'm a **Senior Flutter Developer** with 9+ years in mobile app development (5+ in Flutter). I specialize in building scalable, high-performance apps using **Flutter**, **Firebase**, **BLoC**, and **Clean Architecture**.
+I'm a **Senior Flutter Developer** with 10 years in mobile app development (6 in Flutter). I specialize in building scalable, high-performance apps using **Flutter**, **Firebase**, **BLoC**, and **Clean Architecture**.
 
 🔭 Currently working on:
 - Flutter apps with advanced state management
