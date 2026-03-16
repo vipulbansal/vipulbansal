@@ -1,26 +1,38 @@
 # 👋 Hi there, I'm Vipul Bansal
 
-I'm a **Senior Flutter Developer** with 10 years in mobile app development (6 in Flutter). I specialize in building scalable, high-performance apps using **Flutter**, **Firebase**, **BLoC**, and **Clean Architecture**.
+I'm a **Senior Software Developer** with **10+ years of experience building scalable mobile and web applications**, including **6+ years specializing in Flutter and cross-platform development**.
 
-🔭 Currently working on:
-- Flutter apps with advanced state management
-- Firebase integrations
-- Clean, scalable architecture for production apps
+I focus on designing **high-performance, production-grade applications** using modern architectures such as **Clean Architecture**, **BLoC**, and scalable backend integrations with **Firebase and REST/GraphQL APIs**.
 
-🌱 Actively contributing to open source and mentoring junior developers.
+🔭 **Currently working on:**
+- Building scalable **mobile and web applications**
+- Advanced **Flutter architectures and state management**
+- **Firebase and backend integrations**
+- Performance optimization and production-grade app design
+
+🌱 **Open-source contributor** and passionate about helping developers build maintainable, scalable apps.
 
 ---
 
 ## 📦 Open Source Projects
 
-- 🔗 [**Social Connect Hub**](https://github.com/vipulbansal/social_connect_hub): A social media app with chat, friend requests, and profile syncing powered by Firebase.
-- 📝 [**Flutter Notes App**](https://github.com/vipulbansal/flutter_notes_app): A simple note-taking app with offline support and Provider state management.
-- ✅ [**Vipul Task Master**](https://github.com/vipulbansal/vipul_task_master): A task manager app built with Flutter BLoC, Hive, and local notifications.
-- 📣 [**SnackbarX**](https://github.com/vipulbansal/snackbarx): A customizable Flutter snackbar package built using Overlay and AnimationController. Ensures one snackbar at a time with full control over styling, duration, and types (success, error, info).
-- 📷 [**safe_network_image**](https://github.com/vipulbansal/safe_network_image): A lightweight Flutter package that reliably loads network images with automatic retry, fallback placeholder, and connectivity awareness. Built for web, Android, and iOS. 🔧 Supports image loading errors, Flutter web retry, and customizable fallback widgets.
-- ☁️ [**firebase_uploader_plus**](https://pub.dev/packages/firebase_uploader_plus): A production-ready Flutter package to simplify file uploads to Firebase Storage with optional Firestore metadata logging, progress callbacks, and custom storage paths. Supports both single and multiple uploads.
+- 🔗 [**Social Connect Hub**](https://github.com/vipulbansal/social_connect_hub)  
+  A real-time social media app with chat, friend requests, and profile syncing powered by Firebase.
 
+- 📝 [**Flutter Notes App**](https://github.com/vipulbansal/flutter_notes_app)  
+  A simple offline-first note-taking app with Provider state management.
 
+- ✅ [**Vipul Task Master**](https://github.com/vipulbansal/vipul_task_master)  
+  A task manager built with Flutter BLoC, Hive, and local notifications demonstrating clean architecture.
+
+- 📣 [**SnackbarX**](https://github.com/vipulbansal/snackbarx)  
+  A customizable Flutter snackbar system built using Overlay and AnimationController. Supports predefined styles (success, error, info) and ensures only one snackbar is displayed at a time.
+
+- 📷 [**safe_network_image**](https://github.com/vipulbansal/safe_network_image)  
+  A lightweight Flutter package that reliably loads network images with automatic retry, fallback placeholders, and connectivity awareness.
+
+- ☁️ [**firebase_uploader_plus**](https://pub.dev/packages/firebase_uploader_plus)  
+  A production-ready Flutter package that simplifies Firebase Storage uploads with progress callbacks, metadata logging, and custom storage paths.
 
 ---
 
@@ -47,7 +59,7 @@ I'm a **Senior Flutter Developer** with 10 years in mobile app development (6 in
 
 ## ☕ Funding
 
-If you find my work helpful and would like to support my open-source contributions, consider donating via PayPal 💙
+If you find my work helpful and would like to support my open-source contributions, consider donating 💙
 
 - [💸 Donate via PayPal](https://paypal.me/vipulbansal?country.x=IN&locale.x=en_GB)
 
@@ -60,4 +72,4 @@ If you find my work helpful and would like to support my open-source contributio
 
 ---
 
-> ⚡ Passionate about clean code, real-time apps, and helping businesses go mobile with confidence.
+⚡ **Passionate about building scalable mobile & web applications, clean architecture, and developer productivity tools.**
