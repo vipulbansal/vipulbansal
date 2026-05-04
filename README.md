@@ -29,13 +29,13 @@ I focus on designing **high-performance, production-grade applications** using m
   A task manager built with Flutter BLoC, Hive, and local notifications demonstrating clean architecture.
 
 - 📣 [**SnackbarX**](https://github.com/vipulbansal/snackbarx)  
-  A customizable Flutter snackbar system built using Overlay and AnimationController. Supports predefined styles (success, error, info) and ensures only one snackbar is displayed at a time.
+  A customizable Flutter snackbar system built using Overlay and AnimationController. Supports predefined styles (success, error, info) and ensures only one snackbar is displayed at a time. Published on [pub.dev](https://pub.dev/packages/snackbarx).
 
 - 📷 [**safe_network_image**](https://github.com/vipulbansal/safe_network_image)  
-  A lightweight Flutter package that reliably loads network images with automatic retry, fallback placeholders, and connectivity awareness.
+  A lightweight Flutter package that reliably loads network images with automatic retry, fallback placeholders, and connectivity awareness. Published on [pub.dev](https://pub.dev/packages/safe_network_image).
 
-- ☁️ [**firebase_uploader_plus**](https://pub.dev/packages/firebase_uploader_plus)  
-  A production-ready Flutter package that simplifies Firebase Storage uploads with progress callbacks, metadata logging, and custom storage paths.
+- ☁️ [**firebase_uploader_plus**](https://github.com/vipulbansal/firebase_uploader_plus)  
+  A production-ready Flutter package that simplifies Firebase Storage uploads with progress callbacks, metadata logging, and custom storage paths. Published on [pub.dev](https://pub.dev/packages/firebase_uploader_plus).
 
 ---
 
