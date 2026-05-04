@@ -16,6 +16,9 @@ I focus on designing **high-performance, production-grade applications** using m
 
 ## 📦 Open Source Projects
 
+- 🎥 [**aws_ivs_realtime**](https://github.com/vipulbansal/aws_ivs_realtime)  
+  A Flutter plugin for **Amazon IVS Real-Time Live Video Streaming (Stages)** on Android and iOS: native stage video grid, optional SigV4 control-plane helpers, and IVS Chat session utilities. Published on [pub.dev](https://pub.dev/packages/aws_ivs_realtime).
+
 - 🔗 [**Social Connect Hub**](https://github.com/vipulbansal/social_connect_hub)  
   A real-time social media app with chat, friend requests, and profile syncing powered by Firebase.
 
