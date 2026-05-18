@@ -19,6 +19,10 @@ I focus on designing **high-performance, production-grade applications** using m
 - 🎥 [**aws_ivs_realtime**](https://github.com/vipulbansal/aws_ivs_realtime)  
   A Flutter plugin for **Amazon IVS Real-Time Live Video Streaming (Stages)** on Android and iOS: native stage video grid, optional SigV4 control-plane helpers, and IVS Chat session utilities. Published on [pub.dev](https://pub.dev/packages/aws_ivs_realtime).
 
+- 🔔 [**firebase_messaging_manager**](https://github.com/vipulbansal/firebase_messaging_manager)  
+  A production-safe Flutter package for handling Firebase push notification lifecycle events across foreground, background, and terminated states with duplicate prevention, local notification orchestration, and clean typed callbacks. Published on [pub.dev](https://pub.dev/packages/firebase_messaging_manager).
+
+
 - 🔗 [**Social Connect Hub**](https://github.com/vipulbansal/social_connect_hub)  
   A real-time social media app with chat, friend requests, and profile syncing powered by Firebase.
 
